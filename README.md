@@ -163,7 +163,7 @@ Once all services are registered, you can browse the marketplace app at [http://
 
 ![Product Page](docs/product.png)
 
-### Car
+### Cart
 
 ![Cart](docs/cart.png)
 
